@@ -62,7 +62,7 @@ Use the checkboxes to track your progress — mark completed ones with a ✅.
 
 | Status | Project Name |
 |:------:|---------------|
-| ⬜ | **Unity - 0 - The Basics & Unity Tools** |
+| ✅ | **Unity - 0 - The Basics & Unity Tools** |
 | ⬜ | **Unity - 1 - 3D Physics, Tags, Layers and Scene** |
 | ⬜ | **Unity - 2 - 2D Environment, Tiles and Sprites** |
 | ⬜ | **Unity - 3 - Advanced Inputs and 2D GUI** |
